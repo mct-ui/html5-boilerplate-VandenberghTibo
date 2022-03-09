@@ -102,6 +102,11 @@ blockquote {
   font-family: 'Times New Roman', Times, serif;
 }
 
+blockquote * {
+  font-size: inherit;
+  line-height: inherit;
+}
+
 figcaption {
   font-style: 12px;
   line-height: 16px;
